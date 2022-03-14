@@ -1,6 +1,6 @@
-### Hi there👋, I'm Nasir Uddin
-#### I'm web designer and developer From Bangladesh.
-Here are some ideas about me:* - 🏢 I'm currently studying in Computer Science and Engineering.
+### Hi there 👋, Hi 👋, I'm Nasir Uddin
+#### I'm web designer and developer From Bangladesh
+Here are some ideas about me:* - I'm currently studying in Computer Science and Engineering.
 
 Skills: REACT / JS / HTML / CSS/Bootstrap
 
@@ -22,7 +22,5 @@ Skills: REACT / JS / HTML / CSS/Bootstrap
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nasirdiu&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nasirdiu)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Nasirdiu)  
 
 ![Profile views](https://gpvc.arturio.dev/Nasirdiu)  
