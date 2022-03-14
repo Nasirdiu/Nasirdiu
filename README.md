@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋, I'm Nasir Uddin
+### Hi there👋, I'm Nasir Uddin
 #### I'm web designer and developer From Bangladesh
 Here are some ideas about me:* - 🏢 I’m currently studying in *Computer Science and Engineering*
 
