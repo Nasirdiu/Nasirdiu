@@ -2,11 +2,6 @@
 ###  Hi , I'm Nasir Uddin
 #### I'm web designer and developer From Bangladesh
 Here are some ideas about me:* - I'm currently studying in Computer Science and Engineering.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
