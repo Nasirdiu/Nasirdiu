@@ -40,7 +40,7 @@ Here are some ideas about me:* - I'm currently studying in Computer Science and 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasirdiu)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Nasirdiu&show_icons=true&theme=radical )
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nasirdiu&repo=github-readme-stats)](https://github.com/Nasirdiu/github-readme-stats)
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nasirdiu)  
 
