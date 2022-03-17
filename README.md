@@ -1,6 +1,6 @@
 
 ###  Hi , I'm Nasir Uddin
-#### I'm web designer and developer From Bangladesh :bangladesh:Flag: Bangladesh on LG Velvet.
+#### I'm web designer and developer From :bangladesh:.
 Here are some ideas about me:* - I'm currently studying in Computer Science and Engineering.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
