@@ -15,6 +15,9 @@ Here are some ideas about me:* - I'm currently studying in Computer Science and 
 - 🤔 I’m looking for help with YouTube  
 - 💬 Ask me about web development  
 - 📫 How to reach me: nasir.joypurhat@gmail.com 
+- - 🔭 I’m currently working on [Car-Auto Parts](https://car-auto-parts-e0b2d.web.app/)
+
+- 👯 I’m looking to collaborate on [Photo-Sports](https://assignment-project-a39e6.firebaseapp.com/)
 
 
 <h3 align="left">Connect with me:</h3>
