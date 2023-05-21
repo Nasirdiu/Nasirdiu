@@ -14,7 +14,7 @@ Education : Bsc in Computer Science and Engineering.
 - 👯 I’m looking to collaborate on github  
 - 🤔 I’m looking for help with YouTube  
 - 💬 Ask me about web development  
-- 📫 How to reach me: nasir.joypurhat@gmail.com 
+- 📫 How to reach me: nasircsediu@gmail.com 
 - 🔭 I’m currently working on [Car-Auto Parts](https://car-auto-parts-e0b2d.web.app/)
 - 👯 I’m looking to collaborate on [luxury-living](https://luxury-living-4fa76.web.app/)
 
