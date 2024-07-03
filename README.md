@@ -12,7 +12,7 @@ Education: BSc in Computer Science And Engineering.
 
 - 🌱 I’m currently learning React js, Vue js, PHP Laravel, AWS 
 - 👯 I’m looking to collaborate on GitHub  
-- 🤔 I’m looking for help with YouTube  
+- 🤔 I’m looking for help with YouTube Udemy
 - 💬 Ask me about web development  
 - 📫 How to reach me: nasircsediu@gmail.com 
 
