@@ -1,6 +1,6 @@
 
 ###  Hi, I'm Nasir Uddin
-#### I'm a Web Designer And Developer From Bangladesh:
+#### I'm a Web Designer And Shopify Developer From Bangladesh:
 Education: BSc in Computer Science And Engineering.
 
 <h3 align="left">Languages and Tools:</h3>
