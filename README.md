@@ -5,7 +5,7 @@
 
   <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1200&color=95BF47&center=true&vCenter=true&width=750&lines=%F0%9F%9B%8D%EF%B8%8F+Shopify+Liquid+%26+Storefront+Specialist;%E2%9A%A1+Custom+Sections%2C+Blocks+%26+Theme+Architecture;%F0%9F%8E%A8+Conversion-Focused+E-Commerce+UI%2FUX;%F0%9F%A4%96+AI-Powered+Development+%26+Asset+Workflows" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1200&color=95BF47&center=true&vCenter=true&width=750&lines=%F0%9F%9B%8D%EF%B8%8F+Shopify+Liquid+%26+Storefront+Specialist;%E2%9A%A1+Custom+Sections%2C+Blocks+%26+Theme+Architecture;%F0%9F%8E%A8+Conversion-Focused+Web+Design+%26+Development;%F0%9F%A4%96+AI-Powered+Development+%26+Asset+Workflows" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -40,7 +40,7 @@
     <td width="50%" valign="top">
       <h3>🤖 AI & Advanced Web Development</h3>
       <ul>
-        <li><b>Modern Frontend:</b> High-performance UI built with JavaScript (ES6+), React.js, Tailwind CSS.</li>
+        <li><b>Web Design & Development:</b> High-performance UI built with JavaScript (ES6+), React.js, Tailwind CSS.</li>
         <li><b>AI Integration:</b> AI-augmented storefront workflows, automated data migration, and asset generation.</li>
         <li><b>Full-Stack Capabilities:</b> Node.js, Express, MongoDB, Firebase backend services.</li>
         <li><b>Data Migration:</b> Product catalogue imports, schema mapping, and cross-platform conversions.</li>
@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
   </p>
 
-  <h4>Frontend & UI/UX Design</h4>
+  <h4>Frontend & Web Design</h4>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
