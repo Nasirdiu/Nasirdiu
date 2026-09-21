@@ -15,7 +15,7 @@
 
   <!-- Quick Action Badges -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/nasir369/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/nasir-diu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:nasircsediu@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://dev.to/nasirdiu"><img src="https://img.shields.io/badge/dev.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
     <a href="https://stackoverflow.com/users/18387447/nasir-uddin"><img src="https://img.shields.io/badge/StackOverflow-Profile-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
@@ -110,7 +110,7 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/nasir369/"><img src="https://img.shields.io/badge/LinkedIn-nasir369-0A66C2?style=flat&logo=linkedin" height="30" /></a>
+  <a href="https://www.linkedin.com/in/nasir-diu/"><img src="https://img.shields.io/badge/LinkedIn-nasirdiu-0A66C2?style=flat&logo=linkedin" height="30" /></a>
   <a href="https://twitter.com/nasircse369"><img src="https://img.shields.io/badge/Twitter-@nasircse369-1DA1F2?style=flat&logo=x" height="30" /></a>
   <a href="https://www.facebook.com/nasir369/"><img src="https://img.shields.io/badge/Facebook-nasir369-1877F2?style=flat&logo=facebook" height="30" /></a>
   <a href="https://www.instagram.com/nasiruddincse/"><img src="https://img.shields.io/badge/Instagram-nasiruddincse-E4405F?style=flat&logo=instagram" height="30" /></a>
