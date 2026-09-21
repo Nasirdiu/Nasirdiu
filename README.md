@@ -2,7 +2,7 @@
 
   <!-- Animated Header Banner -->
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,95BF47,008060,111827&height=220&section=header&text=Nasir%20Uddin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Shopify%20Expert%20%7C%20E-Commerce%20Architect%20%7C%20UI%2FUX%20Engineer&descFontSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,95BF47,008060,111827&height=220&section=header&text=Nasir%20Uddin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Shopify%20Expert%20%7C%20E-Commerce%20Architect%20%7C%20Web%20Design%2F%20Developer&descFontSize=18&descAlignY=58" width="100%" />
 
   <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
