@@ -2,7 +2,7 @@
 
   <!-- Animated Header Banner -->
   
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,95BF47,008060,111827&height=220&section=header&text=Nasir%20Uddin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Shopify%20Expert%20%7C%20E-Commerce%20Architect%20%7C%20Web%20Design%20%26%20Development&descFontSize=16&descAlignY=58" width="100%" />
   <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1200&color=95BF47&center=true&vCenter=true&width=750&lines=%F0%9F%9B%8D%EF%B8%8F+Shopify+Liquid+%26+Storefront+Specialist;%E2%9A%A1+Custom+Sections%2C+Blocks+%26+Theme+Architecture;%F0%9F%8E%A8+Conversion-Focused+E-Commerce+UI%2FUX;%F0%9F%A4%96+AI-Powered+Development+%26+Asset+Workflows" alt="Typing SVG" />
